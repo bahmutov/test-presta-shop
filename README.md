@@ -1,5 +1,7 @@
 # test-presta-shop
 
+📝 Read the blog post [Flaky IFrame Online Store Test](https://glebbahmutov.com/blog/flaky-iframe-test/)
+
 ## Small print
 
 Author: Gleb Bahmutov &lt;gleb.bahmutov@gmail.com&gt; &copy; 2024
